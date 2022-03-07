@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <img src="https://komarev.com/ghpvc/?username=nameof">
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nameof.nameof" alt="visitors"/>
+</p>
 <!--
 **nameof/nameof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
